@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artículo de ejemplo</title>
+      <link>/articulos/article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/articulos/article/</guid>
+      <description>Thank you for your support! Esto és una prueba de un artículo. Aquí podre colgar alguna cosa para parecer listo y curioso.</description>
+    </item>
+    
+    <item>
+      <title>GExpenses</title>
+      <link>/proyectos/gexpenses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/proyectos/gexpenses/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
