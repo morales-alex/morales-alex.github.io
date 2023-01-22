@@ -4,13 +4,13 @@
   <url>
     <loc>/</loc>
   </url><url>
-    <loc>/articulos/article/</loc>
-  </url><url>
-    <loc>/articulos/</loc>
-  </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/contacto/</loc>
+  </url><url>
+    <loc>/curriculumvitae/</loc>
+  </url><url>
+    <loc>/curriculumvitae/curriculumvitae/</loc>
   </url><url>
     <loc>/proyectos/gexpenses/</loc>
   </url><url>

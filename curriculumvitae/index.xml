@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>/</link>
-    <description>Recent content on </description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <title>Curriculum Vitae on </title>
+    <link>/curriculumvitae/</link>
+    <description>Recent content in Curriculum Vitae on </description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/curriculumvitae/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curriculum Vitae</title>
       <link>/curriculumvitae/curriculumvitae/</link>
@@ -17,15 +17,6 @@
 MOST RECENT WORK EXPERIENCE Full Stack Web Developer en LogiPlatform Septiembre 2022 - Actualidad · [Terrassa, España] [B2B]
 RESPONSABLIDADES
 Mejoras actualizando librerías antiguas, actualizando código y mejorando su uso, siendo su efecto reflejado tanto en el cliente como en el trabajo del equipo.</description>
-    </item>
-    
-    <item>
-      <title>GExpenses</title>
-      <link>/proyectos/gexpenses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/proyectos/gexpenses/</guid>
-      <description></description>
     </item>
     
   </channel>
